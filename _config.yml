@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Pengyu Li / Site Title"
+title                    : "Pengyu Li / Personal Website"
 title_separator          : "-"
 name                     : &name "Pengyu Li"
 description              : &description "personal description"
